@@ -1,5 +1,5 @@
 -- 《 Booting Library 》 --
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cerbiale/PearlHub/main/PearlHubLibrary.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/koyoto13/lospearlhublib/main/booting%20library.txt"))()"))()
 
 -- 《 Functions & Values 》 --
 local Player = game:GetService('Players').LocalPlayer
